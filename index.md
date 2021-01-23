@@ -8,7 +8,7 @@
 + name: Majid
 + last name : Agha Amini
 + Date of birth : 1987/December/29
-+ I am a trader and IT engineering student
++ I am an IT man and also i am IT engineering student
 + location : Tehran , I.R.Iran
 
 
